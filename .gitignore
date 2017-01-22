@@ -45,7 +45,6 @@ testem.log
 Thumbs.db
 
 /back-end/node_modules/
-/back-end/src/
 /front/node_modules/
 /front/bower_components/
 
